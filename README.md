@@ -1,5 +1,3 @@
-# ASSIF-System
-IoT system for real-time water quality monitoring and automated sterilization for ecotoxicology research.
 # ASSIF System: IoT Bio-monitoring and Automated Water Purification 🐟💧
 
 ## Overview
