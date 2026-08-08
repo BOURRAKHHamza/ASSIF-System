@@ -18,9 +18,5 @@ The ASSIF system is an embedded IoT device designed to standardize the rearing c
 ## Software Architecture
 Written in C++ (Arduino Framework), the code utilizes an asynchronous (non-blocking) architecture using `BlynkTimer`, allowing seamless multitasking between sensor polling, display updates, and cloud communication.
 
-## Circuit Diagram & Flow
-*(Insérez ici l'image de votre schéma bloc ou de votre câblage)*
-![Schéma fonctionnel](lien_vers_votre_image.png)
-
 ---
 *Project developed as part of a Master's degree in Marine Environment and Bioresources Management.*
